@@ -1,0 +1,50 @@
+[16-Oct-2024 16:55:21 America/Bogota] PHP Warning:  require(/home3/senzorac/prueba.senzoracademy.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home3/senzorac/prueba.senzoracademy.com/artisan on line 9
+[16-Oct-2024 16:55:21 America/Bogota] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/senzorac/prueba.senzoracademy.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/senzorac/prueba.senzoracademy.com/artisan:9
+Stack trace:
+#0 {main}
+  thrown in /home3/senzorac/prueba.senzoracademy.com/artisan on line 9
+[16-Oct-2024 16:55:21 America/Bogota] PHP Warning:  require(/home3/senzorac/prueba.senzoracademy.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home3/senzorac/prueba.senzoracademy.com/artisan on line 9
+[16-Oct-2024 16:55:21 America/Bogota] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/senzorac/prueba.senzoracademy.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/senzorac/prueba.senzoracademy.com/artisan:9
+Stack trace:
+#0 {main}
+  thrown in /home3/senzorac/prueba.senzoracademy.com/artisan on line 9
+[16-Oct-2024 16:55:21 America/Bogota] PHP Warning:  require(/home3/senzorac/prueba.senzoracademy.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home3/senzorac/prueba.senzoracademy.com/artisan on line 9
+[16-Oct-2024 16:55:21 America/Bogota] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/senzorac/prueba.senzoracademy.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/senzorac/prueba.senzoracademy.com/artisan:9
+Stack trace:
+#0 {main}
+  thrown in /home3/senzorac/prueba.senzoracademy.com/artisan on line 9
+[16-Oct-2024 16:55:22 America/Bogota] PHP Warning:  require(/home3/senzorac/prueba.senzoracademy.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home3/senzorac/prueba.senzoracademy.com/artisan on line 9
+[16-Oct-2024 16:55:22 America/Bogota] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/senzorac/prueba.senzoracademy.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/senzorac/prueba.senzoracademy.com/artisan:9
+Stack trace:
+#0 {main}
+  thrown in /home3/senzorac/prueba.senzoracademy.com/artisan on line 9
+[16-Oct-2024 16:55:22 America/Bogota] PHP Warning:  require(/home3/senzorac/prueba.senzoracademy.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home3/senzorac/prueba.senzoracademy.com/artisan on line 9
+[16-Oct-2024 16:55:22 America/Bogota] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/senzorac/prueba.senzoracademy.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/senzorac/prueba.senzoracademy.com/artisan:9
+Stack trace:
+#0 {main}
+  thrown in /home3/senzorac/prueba.senzoracademy.com/artisan on line 9
+[16-Oct-2024 16:55:22 America/Bogota] PHP Warning:  require(/home3/senzorac/prueba.senzoracademy.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home3/senzorac/prueba.senzoracademy.com/artisan on line 9
+[16-Oct-2024 16:55:22 America/Bogota] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/senzorac/prueba.senzoracademy.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/senzorac/prueba.senzoracademy.com/artisan:9
+Stack trace:
+#0 {main}
+  thrown in /home3/senzorac/prueba.senzoracademy.com/artisan on line 9
+[16-Oct-2024 16:55:25 America/Bogota] PHP Warning:  require(/home3/senzorac/prueba.senzoracademy.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home3/senzorac/prueba.senzoracademy.com/artisan on line 9
+[16-Oct-2024 16:55:25 America/Bogota] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/senzorac/prueba.senzoracademy.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/senzorac/prueba.senzoracademy.com/artisan:9
+Stack trace:
+#0 {main}
+  thrown in /home3/senzorac/prueba.senzoracademy.com/artisan on line 9
+[16-Oct-2024 16:55:29 America/Bogota] PHP Warning:  require(/home3/senzorac/prueba.senzoracademy.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home3/senzorac/prueba.senzoracademy.com/artisan on line 9
+[16-Oct-2024 16:55:29 America/Bogota] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/senzorac/prueba.senzoracademy.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/senzorac/prueba.senzoracademy.com/artisan:9
+Stack trace:
+#0 {main}
+  thrown in /home3/senzorac/prueba.senzoracademy.com/artisan on line 9
+[16-Oct-2024 17:13:41 America/Bogota] PHP Warning:  require(/home3/senzorac/prueba.senzoracademy.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home3/senzorac/prueba.senzoracademy.com/artisan on line 9
+[16-Oct-2024 17:13:41 America/Bogota] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/senzorac/prueba.senzoracademy.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/senzorac/prueba.senzoracademy.com/artisan:9
+Stack trace:
+#0 {main}
+  thrown in /home3/senzorac/prueba.senzoracademy.com/artisan on line 9
+[16-Oct-2024 17:14:51 America/Bogota] PHP Warning:  require(/home3/senzorac/prueba.senzoracademy.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home3/senzorac/prueba.senzoracademy.com/artisan on line 9
+[16-Oct-2024 17:14:51 America/Bogota] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/senzorac/prueba.senzoracademy.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/senzorac/prueba.senzoracademy.com/artisan:9
+Stack trace:
+#0 {main}
+  thrown in /home3/senzorac/prueba.senzoracademy.com/artisan on line 9
